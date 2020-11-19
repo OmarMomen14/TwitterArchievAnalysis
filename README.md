@@ -7,7 +7,7 @@ WeRateDogs asks people to send photos of their dogs, then tweets selected photos
 of one to ten, but are invariably given ratings in excess of the maximum, such as "13/10". Popular posts are re-posted on Instagram and 
 Facebook. <a href='https://en.wikipedia.org/wiki/WeRateDogs'>Wikipedia</a>
 
-## Please check './wrangle_act.ipynb' notebook for analysis details.
+## Please check this <a href='./wrangle_act.ipynb'>Jupyter Notebook</a> for analysis details.
 
 ## Insights After Analysis
 
